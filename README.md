@@ -109,4 +109,5 @@ If p is false: result is true
 - Fundamentales. Escuela de Ciencias Aplicadas e Ingeniería.
     https://drive.google.com/drive/folders/1IA5Ww4L6VI26FLAycBnodXqX-apWDO36
 - This work consulted the AI model ChatGPT (OpenAI, 2025) and the AI model Gemini
+
 (Google, 2025) for guidance on implementing Church Booleans and logical operators.
